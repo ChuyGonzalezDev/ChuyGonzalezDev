@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chuygonzalezdev" target="blank"><img src="https://img.shields.io/twitter/follow/chuygonzalezdev?logo=twitter&style=for-the-badge" alt="chuygonzalezdev" /></a> </p>
 
-- 📝 I regularly write articles on [https://chuygonzalez.dev/](https://chuygonzalez.dev)
+- 📝 I regularly write articles on [https://chuygonzalez.dev](https://chuygonzalez.dev)
 
 - 📫 How to reach me **chuygonzalez.dev@gmail.com**
 
