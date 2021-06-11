@@ -11,7 +11,7 @@ I am a Software Engineer, working with C#, JavaScript and I'm focusing on Micros
 - 📫 How to reach me **chuygonzalez.dev@gmail.com** -->
 
 [![PORTAFOLIO](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://chuygonzalez.dev)
-[![RESUME](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=6a3ecbde-fc45-4a80-9f28-884c3894399f)
+[![RESUME](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1EEgm-eGCyL0nDy1JUDGhnf_o8sbKYEv0/view?usp=sharing)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/chuygonzalezdev)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:chuygonzalez.dev@gmail.com)
 
