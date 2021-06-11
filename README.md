@@ -4,17 +4,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=25&lines=Hi+%F0%9F%91%8B%2C+I'm+Chuy+Gonz%C3%A1lez)](https://git.io/typing-svg)
 
-<h2 align="left"> I am a Software Engineer, working with C#, JavaScript and I'm focusing on Microservices, DevOps, Web and PWA.</h2>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChuyGonzalezDev&theme=darkhub&no-bg=false" alt="chuygonzalezdev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/chuygonzalezdev" target="blank"><img src="https://img.shields.io/twitter/follow/chuygonzalezdev?logo=twitter&style=for-the-badge" alt="chuygonzalezdev" /></a> </p>
+I am a Software Engineer, working with C#, JavaScript and I'm focusing on Microservices, DevOps, Web and PWA.
 
 - 📝 I regularly write articles on [https://chuygonzalez.dev](https://chuygonzalez.dev/about/)
 
 - 📫 How to reach me **chuygonzalez.dev@gmail.com**
 
+<p align="left"> <a href="https://twitter.com/chuygonzalezdev" target="blank"><img src="https://img.shields.io/twitter/follow/chuygonzalezdev?logo=twitter&style=for-the-badge" alt="chuygonzalezdev" /></a> </p>
+
 ![https://github.com/ChuyGonzalez](/images/github-contribution-grid-snake.svg)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChuyGonzalezDev&theme=monokai&no-bg=false" alt="chuygonzalezdev" /></a> </p>
 
 ### Connect with me
 
