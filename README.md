@@ -26,7 +26,7 @@ I am a Software Engineer, working with C#, JavaScript and I'm focusing on Micros
 
 ## Achievements 🏅
 
-- Postman Student Expert: <p><a href="https://api.badgr.io/public/assertions/g8wb5f4vqr61bwis4yh2uq" target="_blank"> <img src="/images/Postman%20-%20Postman%20Student%20Expert%20-%202021-06-11.png" alt="postman student expert" width="80" height="80"/></a></p>
+- Postman Student Expert: <p><a href="https://api.badgr.io/public/assertions/g8wb5f4vqr61bwis4yh2uq" target="_blank"> <img src="./images/PostmanStudentExpert.png" alt="postman student expert" width="80" height="80"/></a></p>
 
 ## Analytics 📈
 
