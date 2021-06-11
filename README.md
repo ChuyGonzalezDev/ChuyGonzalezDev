@@ -12,10 +12,6 @@ I am a Software Engineer, working with C#, JavaScript and I'm focusing on Micros
 
 <p align="left"> <a href="https://twitter.com/chuygonzalezdev" target="blank"><img src="https://img.shields.io/twitter/follow/chuygonzalezdev?logo=twitter&style=for-the-badge" alt="chuygonzalezdev" /></a> </p>
 
-![https://github.com/ChuyGonzalez](/images/github-contribution-grid-snake.svg)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChuyGonzalezDev&theme=monokai&no-bg=false" alt="chuygonzalezdev" /></a> </p>
-
 ### Connect with me 📇
 
 <p align="left">
@@ -38,12 +34,14 @@ I am a Software Engineer, working with C#, JavaScript and I'm focusing on Micros
 
 ### Analytics ⚙️
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chuygonzalezdev&show_icons=true&locale=en&layout=compact&theme=monokai&no-bg=false" alt="chuygonzalezdev" /></p> -->
+![https://github.com/ChuyGonzalez](/images/github-contribution-grid-snake.svg)
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=chuygonzalezdev&show_icons=true&locale=en&theme=monokai&no-bg=false" alt="chuygonzalezdev" /></p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChuyGonzalezDev&theme=monokai&no-bg=false" alt="chuygonzalezdev" /></a> </p> -->
+
+![https://github.com/ChuyGonzalezDev](https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChuyGonzalezDev&theme=monokai&no-bg=false)
 
 ![https://github.com/ChuyGonzalezDev](https://github-readme-stats.vercel.app/api/top-langs?username=chuygonzalezdev&show_icons=true&locale=en&layout=compact&theme=monokai&no-bg=false)
 
 ![https://github.com/ChuyGonzalezDev](https://github-readme-stats.vercel.app/api?username=chuygonzalezdev&show_icons=true&locale=en&theme=monokai&no-bg=false)
 
-[![https://github.com/ChuyGonzalezDev](http://github-readme-streak-stats.herokuapp.com?user=ChuyGonzalezDev&theme=neon-dark)](https://git.io/streak-stats)
+[![https://github.com/ChuyGonzalezDev](http://github-readme-streak-stats.herokuapp.com?user=ChuyGonzalezDev&theme=monokai)](https://git.io/streak-stats)
