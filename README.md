@@ -1,6 +1,7 @@
 ![https://github.com/ChuyGonzalez](images/logo_transparent.png)
 
-## 🚀 About Me
+## About Me 🚀
+
 ![](https://komarev.com/ghpvc/?username=chuygonzalezdev&label=PROFILE+VIEWS&color=red)
 
 [![](https://readme-typing-svg.herokuapp.com?color=26DD42&size=25&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Chuy+Gonz%C3%A1lez)](https://git.io/typing-svg)
