@@ -38,7 +38,7 @@ I am a Software Engineer, working with C#, JavaScript and I'm focusing on Micros
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChuyGonzalezDev&theme=monokai&no-bg=false" alt="chuygonzalezdev" /></a> </p> -->
 
-![https://github.com/ChuyGonzalezDev](https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChuyGonzalezDev&theme=monokai&no-bg=false)
+![https://github.com/ChuyGonzalezDev](https://github-profile-trophy.vercel.app/?username=ChuyGonzalezDev&theme=monokai&no-bg=false)
 
 ![https://github.com/ChuyGonzalezDev](https://github-readme-stats.vercel.app/api/top-langs?username=chuygonzalezdev&show_icons=true&locale=en&layout=compact&theme=monokai&no-bg=false)
 
